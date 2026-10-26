@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MidExam</string>
+    <string name="title_student_management">Student Management</string>
+    <string name="subtitle_student_management">Case 2</string>
+    <string name="hint_student_name">Enter Student Name</string>
+    <string name="hint_student_id">Enter Student ID</string>
+    <string name="label_has_enrolled">Has Enrolled</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_edit">EDIT</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="btn_view">VIEW</string>
+    <string name="title_student_list">Student Records</string>
+    <string name="empty_student_list">No student records found</string>
+</resources>
